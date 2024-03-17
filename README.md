@@ -1,2 +1,2 @@
 # Airline-Excel-Dashboard
-This is an Airline Dataset dashboard made in Excel.
+This is a Dashboard of an Airline made in Microsoft Excel.
